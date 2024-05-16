@@ -15,3 +15,4 @@ username:rahulkv8888
 password:Kendriya8@
 git push origin main //upload the file/code to your git repository
 git commit -m 'second changes done'
+git clone https://github.com/rahulkv8888/git.sh
