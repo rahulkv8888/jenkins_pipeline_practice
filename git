@@ -1,0 +1,15 @@
+git config --global user.name rahulkumarkv8888 \\username
+git config --global user.email rahulkumarkv8888@gmail.com \\email addresss
+git config --list
+pwd //present work directory
+mkdir workspace //make directory name of workspace
+cd workspace  //change directory to workspace
+git clone https://github.com/rahulkv8888/jenkins_pipeline_practice \\paste the https link of repository
+touch python.py //creating a file
+vi python.py //view for edit file
+git add python.py //adding file into git
+vi python.py //do changes in the file
+git commit -m 'first commit has been done' //adding a message
+git push origin main
+username:rahulkv8888
+password:Kendriya8@
