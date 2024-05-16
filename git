@@ -16,3 +16,6 @@ password:Kendriya8@
 git push origin main //upload the file/code to your git repository
 git commit -m 'second changes done'
 git clone https://github.com/rahulkv8888/git.sh
+git remote set-url origin https://< paste the generated token> @github.com/github_id/repository_name   \\configure with local machine
+git push origin main
+go to setting -> developer option -> create presonal access token -> give the required permissions
